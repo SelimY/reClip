@@ -9,8 +9,8 @@ To set up and run ReClip on Windows, you can choose between two main methods dep
 ## Method 2: Manual Installation via Python/Docker
 
 1. **Prerequisites:** Ensure you have Git and Python installed on your Windows system.
-2. **Clone the Repository:** Open Command Prompt and run `git clone [https://github.com/SelimY/reClip.git](https://github.com/SelimY/reClip.git)`.
-3. **Install Dependencies:** Navigate to the folder (`cd reclip`) and install required backend packages like `yt-dlp` and `ffmpeg`.
+2. **Clone the Repository:** Open Command Prompt and run `git clone https://github.com/SelimY/reClip.git`.
+3. **Install Dependencies:** Navigate to the folder (`cd reClip`) and install required backend packages like `yt-dlp` and `ffmpeg`.
 4. **Launch:** Run the setup script to start the local server, then open `http://localhost:8899` in your web browser to start downloading.
 
 ## Original Repo
